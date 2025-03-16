@@ -9,4 +9,4 @@ This project is dedicated to the manual testing of the OpenCart web application.
 ## Contributions:
 
 Contributions are welcome! Feel free to submit issues, enhancements, or suggestions to improve the manual testing process for OpenCart.
-Happy Manual Testing!
+Happy Manual Testing! ☺ 
